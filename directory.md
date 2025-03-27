@@ -8,11 +8,14 @@
 ## Decentralized Exchange
 - [LinkedIn Technical Groups](https://technicalwritingtoolbox.com/2012/05/27/10-useful-linkedin-groups-for-technical-writers/)
 
-## Data Migration: Datafold + Fivetran
+## Data Migration
+### Fivetran
 - [TechnicalWriterHQ Job Board](https://technicalwriterhq.com/technical-writing-jobs/)
 - [Top Job Boards](https://app.ahrefs.com/user/login)
 - [Best Writing](https://bestwriting.com/jobs/)
 - [Write the Docs](https://www.writethedocs.org/sponsorship/jobs/)
+
+### Datafold
 - [DevRel](https://devrelcareers.com/)
 - [Startup Jobs](https://startup.jobs/?q=technical+writer)
 - [Companies to hit up](https://docs.google.com/document/d/1SH7S4ni6FR8-j-6OAYMzya21rpyGjrW63T3a4yutAug/edit?tab=t.0)
