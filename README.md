@@ -1,4 +1,9 @@
-# About this Guides Repo
+# About this API Guides Repo
 
-Over the past few years, I’ve written several guides—mostly for crypto companies—but rarely saved copies for myself. This repo starts to change that. You’ll find a list of published data migration guides in Data-Migration-Guides.md.
+API Documentation - Planned Projects
 
+1. StablePay API project—	Fictional API with Business Use Case
+2. Stablecraft API (3) projects- Liquidity Tracker, Stress Test, and Risk Manager
+3. CoinGecko Redocumentation
+4. SDK/Library Reference 
+ 
